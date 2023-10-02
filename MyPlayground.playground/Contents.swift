@@ -18,5 +18,5 @@ if myInt == 10 && myString == "Hola" {
 }else if myInt == 11 || myString == "Hola" {
     print("El valor es 11")
 }else{
-    print("El valor no es 10 ni 11")
+    print("El valor no se corresponde")
 }
